@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 require 'greeter'
 
-# Default is World
+# Default is World  .
 name = ARGV.first || "World"
 
 greeter = Greeter.new(name)
