@@ -1,4 +1,4 @@
-# This is a bad comment.  We want to revert it.
+# This is an unwanted but staged comment
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
